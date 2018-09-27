@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Jun 23 10:31:18 IST 2009
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MDS.jar
+manifest.mergeall=true
+manifest.mainclass=com.mds.frames.LoginFrame
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
